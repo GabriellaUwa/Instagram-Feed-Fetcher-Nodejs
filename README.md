@@ -1,1 +1,1 @@
-# Instagram-Feed-Fetcher-Nodejs
+# Social-Feed-Fetcher-Nodejs
